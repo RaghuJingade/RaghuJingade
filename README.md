@@ -64,17 +64,15 @@
  <h3 align="center">Tools Known:</h3>
 <p align="center">
 <!-- <i><b>Tools known:</b></i>  -->
-  <img align="center" src="assets/tools/vs-code.png" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/excel.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/powerpoint.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
+  <img align="center" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/vs_code.png" width="50px" />&nbsp;
+  <img align="center" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/word.png" width="50px" />&nbsp;
+  <img align="center" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/Excel.png" width="50px" />&nbsp;
+  <img align="center" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/powerpoint.png" width="50px" />&nbsp;
+  <img align="center" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/Phptoshop.png" width="50px" />&nbsp;
   <img align="center" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/figma/figma-original.svg" width="50px" />&nbsp;
   <img align="center" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/canva/canva-original.svg" width="50px" />&nbsp;
-  <img align="center" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/bootstrap/bootstrap-original.svg" width="50px" />&nbsp;
-    <img align="center" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
-   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" alt="postman" width="50px"/>
+  <img align="center" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50px" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" alt="postman" width="50px"/>
   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Replit-Dark.svg" width="50px" />&nbsp;
 </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
