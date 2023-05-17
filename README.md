@@ -8,45 +8,37 @@
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-<!-- Coder Uncle Pic -->
-<div id="header" align="center">
+<div>
+<img align="right" alt="Coding" width="26%" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
-<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" /> -->
-<!-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NZMLmld6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/me3nxdmslvhtffb2nn4c.gif" width="300"/> -->
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NZMLmld6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/me3nxdmslvhtffb2nn4c.gif" />
+- 🔭 I’m currently working on **Something New**
+
+- 🌱 I’m currently learning **MySQl & TypeScript**
+
+- 💬 Ask me about **NodeJS, Express, MongoDB, Websockets, redis, MySQL**
+
+- 👨‍💻 All of my projects are available at **<a href ="https://JRaghu842.github.io/">Portfolio</a>**
+
+- 📄 Know about my experiences **<a href ="https://drive.google.com/file/d/1LBrMkX5j7wlU6zjqHgvBqyGtuct4h43h/view?usp=sharing"> Resume</a>**
+ 
+- 📫 How to reach me **jraghavendra842@gmail.com**
 </div>
+
+- ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 450+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
+
 
 <!-- Trophies -->
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RaghuJingade&label=Profile%20views&color=0e75b6&style=flat" alt="RaghuJingade" /> </p>
-<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=RaghuJingade&theme=radical" alt="RaghuJingade" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JRaghu842&label=Profile%20views&color=0e75b6&style=flat" alt="JRaghu842" /> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=JRaghu842&theme=radical" alt="JRaghu842" /></a> </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
-
-<img src="assets/gifs/star.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
-
-<!-- - 🔭 I’m currently working on [HomeDecor.com](https://github.com/RaghuJingade/) -->
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👯I collaborated for **[BabyBloom.com](https://github.com/rajeshkumar7678/luxuriant-power-1482)**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shashwat2104.github.io/)**
-
-<!-- - 💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5** -->
-
-- 📫 How to reach me **Raghu2104@gmail.com**
-
-- 📄 Know about my experiences **[RESUME](abc)**
-
-- ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
-  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <!---------------------------------------------------------------------------------------------------------------------- ISSUE -->
 <!--  <p align="center">
  <i><h3 align="center">Tech Stacks:</h3></i>
  <div align="center">
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,redis)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,redis)](https://skillicons.dev)
 
 </div>
  </p> -->
@@ -56,16 +48,15 @@
 <img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png" alt="html" width="55" height="55"/>
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="50" height="55"/>
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="ts" width="50" height="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="50" height="50"/>
-<!--   <img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/Chakra.png" alt="chakraui" width="50" height="50"/> -->
-<img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/nodejs.png" alt="nodejs" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="ts" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://res.cloudinary.com/kc-cloud/images/f_auto,q_auto/v1651772163/expressjslogo/expressjslogo.webp?_i=AA" alt="express" width="50" height="50"/>
  <img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/mongodb-leaf.png" alt="mongo" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/mysql-logo.png" alt="mysql" width="50" height="50"/>
 <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" width="50" height="50"/>
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="aws" width="50" height="50"/>
+<img src="https://www.chartjs.org/media/logo-title.svg" alt="chart.js" width="50" height="50"/>
 </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
