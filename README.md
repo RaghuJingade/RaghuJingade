@@ -80,13 +80,13 @@
 <h3 align="center">Connect with me:</h3>
 <p align = "center">
 
- <a href="mailto:jraghavendra842@gmail.com" target="blank">
- <img align="center" alt="Raghavendra@Mail" width="50px" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/Gmail-Logo-removebg-preview.png" />&nbsp;
+ <a href="mailto:jraghavendra842@gmail.com" target="blank" >
+ <img align="center" alt="Raghavendra@Mail" width="70px" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/Gmail-Logo-removebg-preview.png" />&nbsp;
   </a>
-  <a href="https://twitter.com/jraghavendra842" target="blank">
+  <a href="https://twitter.com/jraghavendra842" target="blank" width="50px">
     <img align="center" alt="Raghu @twitter" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />&nbsp;
   </a>
-   <a href="https://linkedin.com/in/raghavendra-jingade-4b0505194" target="blank">
+   <a href="https://linkedin.com/in/raghavendra-jingade-4b0505194" target="blank" width="35px">
     <img align="center" alt="Raghu @LinkedIN" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />&nbsp;
   </a>
 </p>
@@ -126,11 +126,13 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <!-- Coffee -->
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jraghavendj" /></a>
-</p>
- 
+<h3 align="center">Support:</h3>
 <!-- Footer -->
-<div align="center"><img align="center" src="https://github.com/JRaghu842/offbeat-jeans-3946/blob/main/images/working-remotely-1.png" width="100%"  /></div>
+<p>Have a desire for a beautiful, eye-catching portfolio or an extraordinary website?
+ <br> SUPPORT MY WORK @BUYMEACOFFEE
+ <br>I'll dedicate my expertise to crafting a website that exceeds your expectations.</p>
+ <p><a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jraghavendj" /></a>
+</p>
+<div align="center"><img align="center" src="https://github.com/JRaghu842/Fashion-Geeks.com/blob/main/images/working-remotely-1.png" width="100%"/></div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <!-- <img src="/resources/waves.svg?tr=rt-180" width="100%" height="150"> -->
